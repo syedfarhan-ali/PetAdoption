@@ -1,4 +1,4 @@
 # PetAdoption website project 
-->Uses XAMPP or WAMP
-->Uses SQL
-->Made for my minor project
+<br>->Uses XAMPP or WAMP
+<br>->Uses SQL
+<br>->Made for my minor project
